@@ -17,16 +17,4 @@ This project demonstrates the Code First approach using Entity Framework Core to
 - Entity Framework Core
 - SQL Server
 
-## Getting Started
-
-### Prerequisites
-
-- [.NET SDK](https://dotnet.microsoft.com/download) (version 5.0 or higher)
-- SQL Server or SQL Server Express
-
-### Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/PatikaCodeFirst.git
+![image](https://github.com/user-attachments/assets/9b251201-3be5-47a5-a6e5-0fd715124e5a)
